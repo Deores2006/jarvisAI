@@ -1,0 +1,1951 @@
+('C:\\Users\\Saurabh '
+ 'deore\\Desktop\\AdvancedPythonLearning\\build\\jarvis\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_ast_unparse',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_ast_unparse.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_py_warnings',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_py_warnings.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyrepl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl.pager',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_pyrepl\\pager.py',
+   'PYMODULE'),
+  ('_pyrepl.trace',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_pyrepl\\trace.py',
+   'PYMODULE'),
+  ('_pyrepl.types',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_pyrepl\\types.py',
+   'PYMODULE'),
+  ('_pyrepl.utils',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_pyrepl\\utils.py',
+   'PYMODULE'),
+  ('_sounddevice',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\_sounddevice.py',
+   'PYMODULE'),
+  ('_sounddevice_data',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\_sounddevice_data\\__init__.py',
+   'PYMODULE'),
+  ('_soundfile',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\_soundfile.py',
+   'PYMODULE'),
+  ('_soundfile_data',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\_soundfile_data\\__init__.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('aifc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\aifc\\__init__.py',
+   'PYMODULE'),
+  ('annotationlib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\annotationlib.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.graph',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\graph.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('audioop',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\audioop\\__init__.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('chunk',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\chunk\\__init__.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('compression',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\compression\\__init__.py',
+   'PYMODULE'),
+  ('compression._common',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\compression\\_common\\__init__.py',
+   'PYMODULE'),
+  ('compression._common._streams',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\compression\\_common\\_streams.py',
+   'PYMODULE'),
+  ('compression.zstd',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\compression\\zstd\\__init__.py',
+   'PYMODULE'),
+  ('compression.zstd._zstdfile',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\compression\\zstd\\_zstdfile.py',
+   'PYMODULE'),
+  ('comtypes',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.GUID',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\GUID.py',
+   'PYMODULE'),
+  ('comtypes._comobject',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_comobject.py',
+   'PYMODULE'),
+  ('comtypes._memberspec',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_memberspec.py',
+   'PYMODULE'),
+  ('comtypes._meta',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_meta.py',
+   'PYMODULE'),
+  ('comtypes._npsupport',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_npsupport.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_post_coinit\\__init__.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit._cominterface_meta_patcher',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_post_coinit\\_cominterface_meta_patcher.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit.activeobj',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_post_coinit\\activeobj.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit.bstr',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_post_coinit\\bstr.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit.instancemethod',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_post_coinit\\instancemethod.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit.misc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_post_coinit\\misc.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit.unknwn',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_post_coinit\\unknwn.py',
+   'PYMODULE'),
+  ('comtypes._safearray',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_safearray.py',
+   'PYMODULE'),
+  ('comtypes._tlib_version_checker',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_tlib_version_checker.py',
+   'PYMODULE'),
+  ('comtypes._vtbl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\_vtbl.py',
+   'PYMODULE'),
+  ('comtypes.automation',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\automation.py',
+   'PYMODULE'),
+  ('comtypes.client',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\client\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.client._activeobj',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\client\\_activeobj.py',
+   'PYMODULE'),
+  ('comtypes.client._code_cache',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\client\\_code_cache.py',
+   'PYMODULE'),
+  ('comtypes.client._constants',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\client\\_constants.py',
+   'PYMODULE'),
+  ('comtypes.client._create',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\client\\_create.py',
+   'PYMODULE'),
+  ('comtypes.client._events',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\client\\_events.py',
+   'PYMODULE'),
+  ('comtypes.client._generate',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\client\\_generate.py',
+   'PYMODULE'),
+  ('comtypes.client._managing',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\client\\_managing.py',
+   'PYMODULE'),
+  ('comtypes.client.dynamic',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\client\\dynamic.py',
+   'PYMODULE'),
+  ('comtypes.client.lazybind',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\client\\lazybind.py',
+   'PYMODULE'),
+  ('comtypes.connectionpoints',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\connectionpoints.py',
+   'PYMODULE'),
+  ('comtypes.errorinfo',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\errorinfo.py',
+   'PYMODULE'),
+  ('comtypes.gen',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\gen\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.gen.SpeechLib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\gen\\SpeechLib.py',
+   'PYMODULE'),
+  ('comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\gen\\_00020430_0000_0000_C000_000000000046_0_2_0.py',
+   'PYMODULE'),
+  ('comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\gen\\_C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.py',
+   'PYMODULE'),
+  ('comtypes.hresult',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\hresult.py',
+   'PYMODULE'),
+  ('comtypes.messageloop',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\messageloop.py',
+   'PYMODULE'),
+  ('comtypes.patcher',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\patcher.py',
+   'PYMODULE'),
+  ('comtypes.persist',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\persist.py',
+   'PYMODULE'),
+  ('comtypes.safearray',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\safearray.py',
+   'PYMODULE'),
+  ('comtypes.server',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\server\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.stream',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\stream.py',
+   'PYMODULE'),
+  ('comtypes.tools',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\codegenerator\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.codegenerator',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\codegenerator\\codegenerator.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.comments',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\codegenerator\\comments.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.heads',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\codegenerator\\heads.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.helpers',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\codegenerator\\helpers.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.modulenamer',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\codegenerator\\modulenamer.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.namespaces',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\codegenerator\\namespaces.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.packing',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\codegenerator\\packing.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.typeannotator',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\codegenerator\\typeannotator.py',
+   'PYMODULE'),
+  ('comtypes.tools.tlbparser',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\tlbparser.py',
+   'PYMODULE'),
+  ('comtypes.tools.typedesc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\typedesc.py',
+   'PYMODULE'),
+  ('comtypes.tools.typedesc_base',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\tools\\typedesc_base.py',
+   'PYMODULE'),
+  ('comtypes.typeinfo',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\comtypes\\typeinfo.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.interpreter',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\concurrent\\futures\\interpreter.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.interpreters',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\concurrent\\interpreters\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.interpreters._crossinterp',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\concurrent\\interpreters\\_crossinterp.py',
+   'PYMODULE'),
+  ('concurrent.interpreters._queues',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\concurrent\\interpreters\\_queues.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes._layout',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ctypes\\_layout.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fileinput',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\fileinput.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._conversions',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_utils\\_conversions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\ctypeslib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib._ctypeslib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\ctypeslib\\_ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._format_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_format_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._os',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pathlib\\_os.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pyttsx3',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pyttsx3\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.driver',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pyttsx3\\driver.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pyttsx3\\drivers\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.dummy',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pyttsx3\\drivers\\dummy.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.sapi5',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pyttsx3\\drivers\\sapi5.py',
+   'PYMODULE'),
+  ('pyttsx3.engine',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pyttsx3\\engine.py',
+   'PYMODULE'),
+  ('pyttsx3.voice',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pyttsx3\\voice.py',
+   'PYMODULE'),
+  ('pywin32_system32', '-', 'PYMODULE'),
+  ('pywintypes',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\random.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('sounddevice',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\sounddevice.py',
+   'PYMODULE'),
+  ('soundfile',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\soundfile.py',
+   'PYMODULE'),
+  ('speech_recognition',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\__init__.py',
+   'PYMODULE'),
+  ('speech_recognition.audio',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\audio.py',
+   'PYMODULE'),
+  ('speech_recognition.exceptions',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\exceptions.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\__init__.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.cohere_api',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\cohere_api.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.google',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\google.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.google_cloud',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\google_cloud.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.pocketsphinx',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\pocketsphinx.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.vosk',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\vosk.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.whisper_api',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\whisper_api\\__init__.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.whisper_api.base',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\whisper_api\\base.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.whisper_api.groq',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\whisper_api\\groq.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.whisper_api.openai',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\whisper_api\\openai.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.whisper_local',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\whisper_local\\__init__.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.whisper_local.base',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\whisper_local\\base.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.whisper_local.faster_whisper',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\whisper_local\\faster_whisper.py',
+   'PYMODULE'),
+  ('speech_recognition.recognizers.whisper_local.whisper',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\speech_recognition\\recognizers\\whisper_local\\whisper.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\string\\__init__.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('wave',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\wave.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Saurabh '
+   'deore\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\zipimport.py',
+   'PYMODULE')])
