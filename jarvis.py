@@ -202,8 +202,6 @@ def open_website(site_name):
 
         return False
 
-
-
 def open_anything(name):
 
     name = name.lower().strip()

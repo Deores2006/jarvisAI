@@ -9,10 +9,29 @@
 #         print("finished")
 #         break
     
+# numbers = [1,2,3]
 
-name = "maithili"
+# it = iter(numbers)
 
-if name.startswith("m"):
-    print("great")
-else:
-    print("worst")
+
+# print(next(it))
+
+# for x in it:
+#     print(x)
+
+# def numbers():
+#     return[1,2,3,4,5]
+# result = numbers()
+# print(result)
+
+def numbers():
+    yield 1
+    yield 2
+    yield 3
+    yield 4
+    yield 5
+
+result = numbers()
+print(next(result))
+print(next(result))
+print(next(result))
