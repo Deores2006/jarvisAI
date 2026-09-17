@@ -1,4 +1,3 @@
-
 import speech_recognition as sr
 import pyttsx3
 import sys
@@ -10,15 +9,24 @@ import os
 from urllib.parse import quote_plus
 
 
-engine = pyttsx3.init()
+# Optional voice settings
+engine.setProperty("rate", 170)
+engine.setProperty("volume", 1.0)
+
 
 def speak(text):
+    """Make JARVIS speak and also print the response."""
     print(f"JARVIS: {text}")
-    engine.say(text)
-    engine.runAndWait()
+
+    try:
+        engine.say(text)
+        engine.runAndWait()
+    except Exception as e:
+        print("TTS Error:", e)
 
 
 def listen_command():
+    """Record microphone input and convert speech to text."""
 
     recognizer = sr.Recognizer()
 
@@ -30,6 +38,7 @@ def listen_command():
 
     try:
 
+        # Record audio
         recording = sd.rec(
             int(seconds * fs),
             samplerate=fs,
@@ -39,82 +48,83 @@ def listen_command():
 
         sd.wait()
 
+        # Save recording
         sf.write(filename, recording, fs)
 
+        # Read audio file
         with sr.AudioFile(filename) as source:
 
             audio = recognizer.record(source)
 
-            print("Recognizing...")
+        print("Recognizing...")
 
-            query = recognizer.recognize_google(
-                audio,
-                language="en-IN"
-            )
+        # Convert speech to text
+        query = recognizer.recognize_google(
+            audio,
+            language="en-IN"
+        )
 
-            print(f"You said: {query}")
-
-        if os.path.exists(filename):
-            os.remove(filename)
+        print(f"You said: {query}")
 
         return query.lower().strip()
 
     except sr.UnknownValueError:
 
         print("I couldn't understand you.")
-
-        if os.path.exists(filename):
-            os.remove(filename)
-
         return "none"
 
     except sr.RequestError:
 
         print("Speech recognition service unavailable.")
-
-        if os.path.exists(filename):
-            os.remove(filename)
-
         return "none"
 
     except Exception as e:
 
-        print("Error:", e)
-
-        if os.path.exists(filename):
-            os.remove(filename)
-
+        print("Microphone / Audio Error:", e)
         return "none"
+
+    finally:
+
+        # Always remove temporary audio file
+        if os.path.exists(filename):
+
+            try:
+                os.remove(filename)
+
+            except Exception:
+                pass
+
 
 
 applications = {
 
-    "chrome": "chrome",
-    "google chrome": "chrome",
+    "chrome": r"C:\Program Files\Google\Chrome\Application\chrome.exe",
 
-    "edge": "msedge",
-    "microsoft edge": "msedge",
+    "google chrome": r"C:\Program Files\Google\Chrome\Application\chrome.exe",
 
-    "notepad": "notepad",
+    "edge": r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
 
-    "calculator": "calc",
+    "microsoft edge": r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
 
-    "paint": "mspaint",
+    "notepad": "notepad.exe",
 
-    "file explorer": "explorer",
-    "explorer": "explorer",
+    "calculator": "calc.exe",
 
-    "command prompt": "cmd",
-    "cmd": "cmd",
+    "paint": "mspaint.exe",
 
-    "powershell": "powershell",
+    "file explorer": "explorer.exe",
 
-    "task manager": "taskmgr",
+    "explorer": "explorer.exe",
 
-    "control panel": "control",
+    "command prompt": "cmd.exe",
 
-    "settings": "start ms-settings:",
+    "cmd": "cmd.exe",
 
+    "powershell": "powershell.exe",
+
+    "task manager": "taskmgr.exe",
+
+    "control panel": "control.exe",
 }
 
 
@@ -142,18 +152,22 @@ websites = {
 
     "linkedin": "https://www.linkedin.com",
 
-    "gmail": "https://mail.google.com",
-
+    "gmail": "https://mail.google.com"
 }
 
 
 def open_application(app_name):
 
+    app_name = app_name.lower().strip()
+
     try:
 
         command = applications[app_name]
 
-        subprocess.Popen(command, shell=True)
+        subprocess.Popen(
+            command,
+            shell=True
+        )
 
         speak(f"Opening {app_name}, sir.")
 
@@ -163,10 +177,16 @@ def open_application(app_name):
 
         print("Application error:", e)
 
+        speak(
+            f"Sorry sir, I couldn't open {app_name}."
+        )
+
         return False
 
 
 def open_website(site_name):
+
+    site_name = site_name.lower().strip()
 
     try:
 
@@ -175,22 +195,29 @@ def open_website(site_name):
 
             url = websites[site_name]
 
-        # User said complete URL
+        # Complete HTTP URL
         elif site_name.startswith("http://"):
 
             url = site_name
 
+        # Complete HTTPS URL
         elif site_name.startswith("https://"):
 
             url = site_name
 
-        # User said something like:
-        # "open reddit"
-        # "open wikipedia"
-        # "open espn"
+        # www.example.com
+        elif site_name.startswith("www."):
+
+            url = "https://" + site_name
+
+        # Unknown website
         else:
 
-            url = "https://www.google.com/search?q=" + quote_plus(site_name)
+            # Search Google
+            url = (
+                "https://www.google.com/search?q="
+                + quote_plus(site_name)
+            )
 
         webbrowser.open(url, new=2)
 
@@ -202,6 +229,8 @@ def open_website(site_name):
 
         print("Website error:", e)
 
+        speak("Sorry sir, I couldn't open that website.")
+
         return False
 
 
@@ -210,15 +239,25 @@ def open_anything(name):
 
     name = name.lower().strip()
 
+    if not name:
+
+        speak("Please tell me what you want me to open, sir.")
+
+        return False
+
+
+    
 
     if name in applications:
 
         return open_application(name)
 
 
+    
     if name in websites:
 
         return open_website(name)
+
 
 
     if (
@@ -232,6 +271,8 @@ def open_anything(name):
         return open_website(name)
 
 
+    
+
     try:
 
         result = subprocess.run(
@@ -242,17 +283,21 @@ def open_anything(name):
 
         if result.returncode == 0:
 
-            subprocess.Popen(name, shell=True)
+            subprocess.Popen(
+                name,
+                shell=True
+            )
 
             speak(f"Opening {name}, sir.")
 
             return True
 
-    except:
+    except Exception as e:
 
-        pass
+        print("Windows search error:", e)
 
 
+   
 
     speak(
         f"I couldn't find an application called {name}. "
@@ -262,34 +307,67 @@ def open_anything(name):
     return open_website(name)
 
 
-speak("Online and ready, sir.")
 
-while True:
+def google_search(search_query):
 
-    command = listen_command()
+    search_query = search_query.strip()
 
-    if command == "none":
-        continue
+    if not search_query:
+
+        speak("What should I search for, sir?")
+
+        return
+
+    speak(
+        f"Searching Google for {search_query}."
+    )
+
+    url = (
+        "https://www.google.com/search?q="
+        + quote_plus(search_query)
+    )
+
+    webbrowser.open(
+        url,
+        new=2
+    )
 
 
-    if (
-        "shutdown" in command
-        or
-        "exit" in command
-        or
-        "quit" in command
-        or
-        "stop" in command
-    ):
+def process_command(command):
 
-        speak("Powering down. Goodbye, sir.")
-
-        sys.exit()
+    command = command.lower().strip()
 
 
-    elif command.startswith(" open "):
+    if not command or command == "none":
 
-        target = command.replace(" open ", "", 1).strip()
+        return True
+
+
+    exit_commands = [
+        "shutdown",
+        "exit",
+        "quit",
+        "stop",
+        "goodbye",
+        "power down",
+        "power off"
+    ]
+
+    for word in exit_commands:
+
+        if word in command:
+
+            speak(
+                "Powering down. Goodbye, sir."
+            )
+
+            return False
+
+
+
+    if command.startswith("open "):
+
+        target = command[5:].strip()
 
         if target:
 
@@ -297,33 +375,103 @@ while True:
 
         else:
 
-            speak("What would you like me to open, sir?")
+            speak(
+                "What would you like me to open, sir?"
+            )
+
+        return True
 
 
-    elif command.startswith("search "):
+    if command.startswith("search "):
 
-        search_query = command.replace(
-            "search ",
-            "",
-            1
-        ).strip()
+        search_query = command[7:].strip()
+
+        google_search(search_query)
+
+        return True
+
+
+    if command.startswith("google "):
+
+        search_query = command[7:].strip()
+
+        google_search(search_query)
+
+        return True
+
+
+
+    if command.startswith("youtube "):
+
+        search_query = command[8:].strip()
 
         if search_query:
 
             speak(
-                f"Searching Google for {search_query}"
+                f"Searching YouTube for {search_query}."
             )
 
             url = (
-                "https://www.google.com/search?q="
+                "https://www.youtube.com/results?search_query="
                 + quote_plus(search_query)
             )
 
-            webbrowser.open(url, new=2)
+            webbrowser.open(
+                url,
+                new=2
+            )
+
+        return True
 
 
-    else:
+    if command.startswith("open the "):
 
-        speak(
-            "I heard you, but I don't know that command yet."
-        )
+        target = command[9:].strip()
+
+        if target:
+
+            open_anything(target)
+
+        return True
+
+
+    # --------------------------------------------------------
+    # UNKNOWN COMMAND
+    # --------------------------------------------------------
+
+    speak(
+        "I heard you, but I don't know that command yet."
+    )
+
+    return True
+
+
+# ============================================================
+# MAIN PROGRAM
+# ============================================================
+
+def main():
+
+    speak("Online and ready, sir.")
+
+    while True:
+
+        command = listen_command()
+
+        should_continue = process_command(command)
+
+        if not should_continue:
+
+            break
+
+
+    sys.exit()
+
+
+# ============================================================
+# START JARVIS
+# ============================================================
+
+if __name__ == "__main__":
+
+    main()
