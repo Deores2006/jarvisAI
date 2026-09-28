@@ -36,8 +36,12 @@
 # print(next(result))
 # print(next(result))
 
-list_1 = ["saurabh","sahadev","python"]
-list_2 = ["sarthak","ML"]
+# list_1 = ["saurabh","sahadev","python"]
+# list_2 = ["sarthak","ML"]
 
-x = zip(list_1,list_2)
-print(list(x))
+# x = zip(list_1,list_2)
+# print(list(x))
+
+def numbers():
+    for i in range(1, 10000001):
+        yield i
