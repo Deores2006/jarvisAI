@@ -396,13 +396,13 @@
 # result = test()
 # print(result)
 
-def demo():
-    print("start")
-    yield 10
-    print("middle")
-    yield 20
-    print("End")
+# def demo():
+#     print("start")
+#     yield 10
+#     print("middle")
+#     yield 20
+#     print("End")
 
-g = demo()
-print(next(g))
-print(next(g))
+# g = demo()
+# print(next(g))
+# print(next(g))

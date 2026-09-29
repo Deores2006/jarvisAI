@@ -42,6 +42,82 @@
 # x = zip(list_1,list_2)
 # print(list(x))
 
-def numbers():
-    for i in range(1, 10000001):
-        yield i
+# def numbers():
+#     return [1,2,3,4,5]
+
+# result = numbers()
+# print(result)
+
+# def numbers():
+#     yield 1
+#     yield 2
+#     yield 3
+#     yield 4
+#     yield 5
+
+# result = numbers()
+# print(next(result))
+# print(next(result))
+# print(next(result))
+# print(next(result))
+
+# def test():
+#     return 10
+#     return 20
+
+# result = test()
+# print(result)
+
+# def demo():
+#     print("start")
+#     yield 10
+#     print("middle")
+#     yield 20
+#     print("End")
+
+# g = demo()
+# print(next(g))
+# print(next(g))
+
+# def numbers():
+#     for i in range(1,6):
+#         yield i
+
+# g = numbers()
+
+# for x in g:
+#     print(x)
+
+# def squares(n):
+#     for i in range(n):
+#         yield i*i
+
+# for x in squares(5):
+#     print(x)
+
+# def numbers():
+#     for i in range (1,4):
+#         yield i
+
+# g = numbers()
+
+# for x in g:
+#     print(x)
+
+# print("Again:")
+
+# for x in g:
+#     print(x)
+
+def even_numbers():
+    for i in range(1,11):
+        if i%2 == 0:
+            yield i
+
+g = even_numbers()
+
+print(next(g))
+print(next(g))
+
+for x in g:
+    print(x)
