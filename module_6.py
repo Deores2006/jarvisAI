@@ -113,7 +113,54 @@
 # for file in path.glob("*.py"):
 #     print(file)
 
-from pathlib import Path
+# from pathlib import Path
 
-for file in path.glob("*"):
-    print(file)
+# path = Path("project")
+
+# for file in path.rglob("*.py"):
+#     print(file)
+
+# from pathlib import Path
+
+# old = Path("old.txt")
+
+# old.rename("new.txt")
+
+# from pathlib import Path  
+
+# folder = Path("project")
+
+# for item in folder.iterdir():
+#     if item.is_file():
+
+#         print("File:",item.name)
+#         print("Extension")
+
+# from pathlib import Path
+
+# folder = Path("project")
+
+# for item in folder.iterdir():
+#     if item.is_file():
+
+#         print("File:",item.name)
+#         print("Extension:",item.suffix)
+#         print()
+
+# from pathlib import Path
+
+# file = Path("hello.txt")
+
+# with  open("hello.txt", "a") as file:
+#     file.write("\nwelcome to Advanced Python!")
+
+
+# from pathlib import Path
+
+# file = Path("hello.txt")
+# content = file.read_text()
+
+# print(content)
+
+with open("hello.txt", "a") as file:
+    file.write("\nWelcome to Advanced Python!")
