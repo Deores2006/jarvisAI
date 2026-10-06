@@ -162,5 +162,18 @@
 
 # print(content)
 
-with open("hello.txt", "a") as file:
-    file.write("\nWelcome to Advanced Python!")
+# with open("hello.txt", "a") as file:
+#     file.write("\nWelcome to Advanced Python!")
+
+# with open("hello.txt", "a") as file:
+#     file.write("\nWelcome to Advanced Python!")
+
+# with open("hello.txt", "r") as file:
+#     print(file.read())
+
+from pathlib import Path
+
+file = Path("hello.txt")
+
+file.rename("welcome.txt")
+
