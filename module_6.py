@@ -191,13 +191,52 @@
 
 # print(marks*2)
 
-import numpy as np
+# import numpy as np
 
-a= np.array([10,20,30,40,50])
+# a= np.array([10,20,30,40,50])
 
-print(a)
-print(type(a))
-print(a.shape)
-print(a.ndim)
-print(a.size)
-print(a.dtype)
+# print(a)
+# print(type(a))
+# print(a.shape)
+# print(a.ndim)
+# print(a.size)
+# print(a.dtype)
+
+# x = np.array([
+#     [10, 20, 30],
+#     [40, 50, 60],
+#     [70, 80, 90]
+# ])
+
+# print(x[0:2, 1:3])
+# print(x[:, 0])
+# print(x[1, :])
+
+# import numpy as np
+
+# x = np.zeros((2,3))
+# print(x)
+
+# import numpy as np
+
+# print(np.zeros((3,2)))
+# print(np.arange(2, 12, 3))
+# print(np.linspace(0, 20, 5))
+
+# a = np.array([
+#     [1, 2, 3],
+#     [4, 5, 6],
+# ])
+# print(a + 10)
+
+import matplotlib.pyplot as plt
+
+x = [1, 2, 3, 4, 5]
+y = [2, 44, 6, 80, 10]
+
+plt.plot(x, y)
+plt.title("Graph")
+plt.xlabel("X-axis")
+plt.ylabel("Y-axis")
+plt.show()
+
