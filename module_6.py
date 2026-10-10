@@ -229,14 +229,23 @@
 # ])
 # print(a + 10)
 
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
-x = [1, 2, 3, 4, 5]
-y = [2, 44, 6, 80, 10]
+# x = [1, 2, 3, 4, 5]
+# y = [2, 44, 6, 80, 10]
 
-plt.plot(x, y)
-plt.title("Graph")
-plt.xlabel("X-axis")
-plt.ylabel("Y-axis")
-plt.show()
+# plt.plot(x, y)
+# plt.title("Graph")
+# plt.xlabel("X-axis")
+# plt.ylabel("Y-axis")
+# plt.show()
 
+import numpy as np
+
+a = np.array([
+    [10,20,30],
+    [40,50,60],
+])
+b = np.array([10,20])
+
+print(a + b)
