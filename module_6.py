@@ -240,12 +240,51 @@
 # plt.ylabel("Y-axis")
 # plt.show()
 
-import numpy as np
+# import numpy as np
 
-a = np.array([
-    [10,20,30],
-    [40,50,60],
-])
-b = np.array([10,20])
+# a = np.array([
+#     [10,20,30],
+#     [40,50,60],
+# ])
+# result = np.sum(a, axis=0)
 
-print(a + b)
+# print(np.sum(a, axis=0))
+# b = np.array([10,20])
+
+# print(a + b)
+
+# import numpy as np 
+
+# a  = np.array([10,20,30, 40,50])
+
+# print(np.std(a))
+
+# import numpy as np
+
+# a = np.array([
+#     [5, 10, 15],
+#     [20, 25, 30],
+#     [35, 40, 45]
+# ])
+
+# print(np.sum(a))
+# print(np.mean(a))
+# print(np.max(a, axis=0))
+# print(np.min(a, axis=1))
+
+# import numpy as np 
+# rng = np.random.default_rng(42)
+# a = rng.integers(1, 100, size=4)
+
+# print(a)
+# print(a.shape)
+# print(a.size)
+
+import numpy as np 
+
+a = np.array([1 ,2 , 3, 4, 5, 6])
+b = a.reshape(2,3)
+
+print(b)
+print(b.shape)
+
