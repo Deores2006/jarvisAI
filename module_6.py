@@ -280,11 +280,25 @@
 # print(a.shape)
 # print(a.size)
 
-import numpy as np 
+# import numpy as np 
 
-a = np.array([1 ,2 , 3, 4, 5, 6])
-b = a.reshape(2,3)
+# a = np.array([1 ,2 , 3, 4, 5, 6])
+# b = a.reshape(2,3)
 
-print(b)
-print(b.shape)
+# print(b)
+# print(b.shape)
 
+# import numpy as np
+
+# a = np.array([1,2,3,4,5,6])
+
+# print(a.reshape(2,-1))
+
+# import numpy as np
+
+# a = np.array([10,20,30,40,50,60,70,80])
+# b = a.reshape(2,4)
+
+# print(b)
+# print(b.shape)
+# print(b.reshape(4,-1))
