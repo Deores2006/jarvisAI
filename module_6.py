@@ -302,3 +302,50 @@
 # print(b)
 # print(b.shape)
 # print(b.reshape(4,-1))
+
+# import numpy as np
+
+# A = np.array([
+#     [1, 2],
+#     [3, 4]
+# ])
+
+# B = np.array([
+#     [5, 6],
+#     [7, 8]
+# ])
+
+# X = A@B
+# print(X)
+# print(X.T)
+
+# import numpy as np
+
+# A = np.array([
+#     [1, 2],
+#     [3, 4]
+# ])
+
+# B = np.array([
+#     [2, 0],
+#     [1, 3]
+# ])
+
+# print(A@B)
+# print((A@B).shape)
+
+# import numpy as np
+
+# marks = np.array([35,78,92,45,60,28])
+
+# print(marks > 50)
+
+# print(marks[marks > 50])
+
+import numpy as np
+
+sales = np.array([120,80,200,45,160,90])
+
+print(sales[sales > 100])
+print(sales[sales <= 90])
+
